@@ -1,0 +1,5 @@
+name: BookUpdate
+version: ${project.version}
+description: Set Change the text in a book when held
+author: cindy_k
+main: com.minecats.cindyk.bookupdate.BookUpdate
